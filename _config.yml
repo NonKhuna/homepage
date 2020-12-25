@@ -34,9 +34,9 @@ permalink: /:title/
 #   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: khunanon rattangoses
+facebook: profile.php?id=100001908045635
 # twitter: mytwitter
-# instagram: myinstagram
+instagram: khunanon_kr
 # pinterest: mypinterest
 linkedin: nonkhuna
 # youtube: myyoutube
@@ -80,7 +80,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 # about: true
