@@ -1,6 +1,6 @@
 # main text of home
 name: Non Rattanagoses
-bio: develop myself
+bio: Develop yourself and your life in balance.
 
 # twitter summary info
 description: non
@@ -34,20 +34,20 @@ permalink: /:title/
 #   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: khunanon rattangoses
 # twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+ linkedin: nonkhuna
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/NonKhuna
+github: NonKhuna
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: khunanon.rtgs@gmail.com
